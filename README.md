@@ -20,3 +20,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - Headers for expansion shields;
 - [Compatability with TwilightLord-ESP32 Ethernet Shield](https://www.tindie.com/products/twilightlord/twilightlord-esp32-ethernet-shield/);
 - Optional Dallas temperature sensor;
+
+### Quick references
+- [Pinout diagram](https://github.com/srg74/WLED-ESP32-universal-controller/Resources/images);
+- [Schematic](https://github.com/srg74/WLED-ESP32-universal-controller/Resources/images);
