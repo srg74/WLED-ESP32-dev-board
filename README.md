@@ -12,10 +12,11 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - ESP32 Wi-Fi modules with PCB or external antenna;
 - USB connector (for programming only);
 - MicroSD slot;
-- Level shifters for 2 outputs;
-- Solder jumpers for output confiuration;
+- Level shifters for 2 digital outputs;
+- Solder jumpers for output configuration;
 - Power selector (e.g 5VDC or 12/24VDC);
 - 10A Relay for power saving feature;
 - On board connector for PWM fan;
-- Headers for shields;
+- Headers for expansion shields;
+- Compatability with TwilightLord-ESP32 Ethernet Shield;
 - Optional Dallas temperature sensor;
