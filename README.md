@@ -18,5 +18,5 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - 10A Relay for power saving feature;
 - On board connector for PWM fan;
 - Headers for expansion shields;
-- Compatability with TwilightLord-ESP32 Ethernet Shield;
+- [Compatability with TwilightLord-ESP32 Ethernet Shield](https://www.tindie.com/products/twilightlord/twilightlord-esp32-ethernet-shield/);
 - Optional Dallas temperature sensor;
