@@ -9,7 +9,7 @@
 I appreciate your support for my project! [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=VU7L89Z2RR7S4)
 ## WLED EPS32 universal controller have following features:
 
-- ESP32 Wi-Fi module with PCB or external antenna;
+- ESP32 Wi-Fi modules with PCB or external antenna;
 - USB connector (for programming only);
 - MicroSD slot;
 - Level shifters for 2 outputs;
