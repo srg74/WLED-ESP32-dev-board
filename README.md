@@ -2,7 +2,7 @@
 
 ## Imagination is your limit!
 
-[![release](https://img.shields.io/github/v/release/srg74/WLED-ESP32-universal-controller?style=flat-square)](https://img.shields.io/github/v/release/srg74/WLED-ESP32-universal-controller)
+[![Release](https://img.shields.io/github/v/release/srg74/WLED-ESP32-universal-controller?style=flat-square)](https://img.shields.io/github/v/release/srg74/WLED-ESP32-universal-controller)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-ESP32-universal-controller/tree/master/resources/Firmware)
 
