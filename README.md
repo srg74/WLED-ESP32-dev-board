@@ -11,7 +11,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 
 - ESP32 Wi-Fi modules with PCB or external antenna;
 - USB connector (for programming only);
-- MicroSD slot;
+- MicroSD connector;
 - Level shifters for 2 digital outputs;
 - Solder jumpers for output configuration;
 - Power selector (e.g 5VDC or 12/24VDC);
