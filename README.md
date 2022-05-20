@@ -8,7 +8,7 @@
 
 I appreciate your support for my project! [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=VU7L89Z2RR7S4)
 
-![3D rendering](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/ESP32_WLED_dev_board_v1.2_3D.png)
+![3D rendering](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/ESP32_WLED_dev_board_v1.0_3D.png)
 
 ## WLED EPS32 universal controller have following features
 
