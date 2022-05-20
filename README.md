@@ -1,12 +1,13 @@
 # WLED EPS32 universal controller designed for WLED and many more projects
 
-## Imagination is your limit!
+## Imagination is your limit ;)
 
 [![Release](https://img.shields.io/github/v/release/srg74/WLED-ESP32-universal-controller?style=flat-square)](https://img.shields.io/github/v/release/srg74/WLED-ESP32-universal-controller)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-ESP32-universal-controller/tree/master/resources/Firmware)
 
 I appreciate your support for my project! [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=VU7L89Z2RR7S4)
+
 ## WLED EPS32 universal controller have following features:
 
 - ESP32 Wi-Fi modules with PCB or external antenna;
@@ -22,5 +23,6 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - Optional Dallas temperature sensor;
 
 ### Quick references
+
 - [Parts placement](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/Parts_placement_v1.0.png);
 - [Schematic](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/Schematic_v1.0.pdf);
