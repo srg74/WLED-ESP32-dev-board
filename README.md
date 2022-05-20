@@ -22,5 +22,5 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - Optional Dallas temperature sensor;
 
 ### Quick references
-- [Parts placement](https://github.com/srg74/WLED-ESP32-universal-controller/Resources/images/Parts_placement_v1.0.png);
-- [Schematic](https://github.com/srg74/WLED-ESP32-universal-controller/Resources/images/Schematic_v1.0.pdf);
+- [Parts placement](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/Parts_placement_v1.0.png);
+- [Schematic](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/Schematic_v1.0.pdf);
