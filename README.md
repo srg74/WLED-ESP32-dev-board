@@ -8,21 +8,21 @@
 
 I appreciate your support for my project! [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=VU7L89Z2RR7S4)
 
-## WLED EPS32 universal controller have following features:
+## WLED EPS32 universal controller have following features
 
-- ESP32 Wi-Fi modules with PCB or external antenna;
-- USB connector (for programming only);
-- MicroSD connector;
-- Level shifters for 2 digital outputs;
-- Solder jumpers for output configuration;
-- Power selector (e.g 5VDC or 12/24VDC);
-- 10A Relay for power saving feature;
-- On board connector for PWM fan;
-- Headers for expansion shields;
-- [Compatability with TwilightLord-ESP32 Ethernet Shield](https://www.tindie.com/products/twilightlord/twilightlord-esp32-ethernet-shield/);
-- Optional Dallas temperature sensor;
+- ESP32 Wi-Fi modules with PCB or external antenna
+- USB connector (for programming only)
+- MicroSD connector
+- Level shifters for 2 digital outputs
+- Solder jumpers for output configuration
+- Power selector (e.g 5VDC or 12/24VDC)
+- 10A Relay for power saving feature
+- On board connector for PWM fan
+- Headers for expansion shields
+- [Compatability with TwilightLord-ESP32 Ethernet Shield](https://www.tindie.com/products/twilightlord/twilightlord-esp32-ethernet-shield/)
+- Optional Dallas temperature sensor
 
 ### Quick references
 
-- [Parts placement](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/Parts_placement_v1.0.png);
-- [Schematic](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/Schematic_v1.0.pdf);
+- [Parts placement](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/Parts_placement_v1.0.png)
+- [Schematic](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/Schematic_v1.0.pdf)
