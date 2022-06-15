@@ -4,4 +4,4 @@
 - [Schematic](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/Schematic_v1.0.pdf)
 - [Firmware](https://github.com/srg74/WLED-ESP32-universal-controller/tree/main/Firmware)
 
-![3D rendering](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/ESP32_WLED_dev_boardv_v1r2_back.jpg)
+![Board](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/ESP32_WLED_dev_boardv_v1r2_back.jpg)
