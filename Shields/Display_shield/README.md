@@ -1,5 +1,6 @@
 # Display shield
 
+![Board](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Shields/Display_shield/Docs/Display_shield.jpg)
 ## Variants
 
 - Display with rotary encoder
