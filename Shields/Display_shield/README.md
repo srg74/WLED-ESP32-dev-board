@@ -1,6 +1,9 @@
 # Display shield
 
 ![Board](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Shields/Display_shield/Docs/Display_shield.jpg)
+
+Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP32-universal-controller/blob/main/Resources/images/tindie-logo@2x.png)](https://www.tindie.com/products/27112/)
+
 ## Variants
 
 - Display shield with rotary encoder
