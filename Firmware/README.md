@@ -1,4 +1,4 @@
-# Project resources
+# Various firmware variants
 
-- [Original firmware link and various ready bins](https://github.com/srg74/WLED-ESP32-universal-controller/tree/main/Firmware/%40Aircoookie)
-- [Experimental firmware link and various ready bins](https://github.com/srg74/WLED-ESP32-universal-controller/tree/main/Firmware/%40blazoncek)
+- [Original WLED @Aircoookie firmware bins and repo link](https://github.com/srg74/WLED-ESP32-universal-controller/tree/main/Firmware/%40Aircoookie)
+- [Experimental WLED @blazoncek firmware bins and repo link](https://github.com/srg74/WLED-ESP32-universal-controller/tree/main/Firmware/%40blazoncek)
