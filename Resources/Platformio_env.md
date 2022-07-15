@@ -1,4 +1,4 @@
-# Platormio env for board
+# Platformio env for board
 
 ```[env:esp32_WLED_dev_board]
 board = esp32dev
