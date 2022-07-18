@@ -1,3 +1,3 @@
 # Linear audio input shield
 
-Prototype shield under intensive testing
+Prototype shield is under intensive testing
