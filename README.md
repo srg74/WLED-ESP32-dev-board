@@ -15,7 +15,7 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 
 - ESP32 Wi-Fi modules with PCB or external antenna
 - USB connector (for programming only)
-- MicroSD connector
+- MicroSD slot for flash card support
 - Level shifters for 2 digital outputs
 - Solder jumpers for output configuration
 - Power selector (e.g 5VDC or 12/24VDC)
