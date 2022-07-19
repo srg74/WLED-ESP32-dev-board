@@ -22,7 +22,7 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 - 10A Relay for power saving feature
 - On board connector for PWM fan
 - Headers for expansion shields
-- [Compatability with TwilightLord-ESP32 Ethernet Shield](https://www.tindie.com/products/twilightlord/twilightlord-esp32-ethernet-shield/)
+- [Compatible with TwilightLord-ESP32 Ethernet Shield](https://www.tindie.com/products/twilightlord/twilightlord-esp32-ethernet-shield/)
 - Optional Dallas temperature sensor
 
 ### Quick references
