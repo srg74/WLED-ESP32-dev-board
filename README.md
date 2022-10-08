@@ -1,4 +1,4 @@
-# WLED ESP32 universal controller designed for WLED and many more projects
+# ESP32 WLED dev board designed for WLED and many more projects
 
 ## Imagination is your limit ;)
 
