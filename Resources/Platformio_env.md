@@ -1,4 +1,4 @@
-# Platformio [env] for ESP32 WLED universal board
+# Platformio [env] for ESP32 WLED dev board
 
 ```[env:esp32_WLED_dev_board]
 board = esp32dev
