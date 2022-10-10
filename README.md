@@ -1,10 +1,10 @@
 # ESP32 WLED dev board designed for WLED and many more projects
 
-## Imagination is your limit ;)
-
 [![Release](https://img.shields.io/github/v/release/srg74/WLED-ESP32-dev-board?style=flat-square)](https://img.shields.io/github/v/release/srg74/WLED-ESP32-dev-board)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-ESP32-dev-board/tree/main/Firmware)
+
+## Imagination is your limit ;)
 
 ![Board](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/ESP32_WLED_dev_board_v1r2_3D.jpg)
 
