@@ -4,6 +4,5 @@
 
 ## Variants
 
-- Display shield with rotary encoder
-- Display shield with rotary encoder and light sensor
-- Display shield with rotary encode and ICS-43434 mic
+- I2S audio input shield with rotary encoder
+- I2S audio input shield with rotary encoder and I2C OLED display
