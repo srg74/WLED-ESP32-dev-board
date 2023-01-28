@@ -9,6 +9,6 @@
 
 ## Resources
 
-- [Parts placement](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Shields/Linear_audio_input_shield/Docs/Sound_AUX_shield.B-2.png)
 - [Jumpers soldering](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Shields/Linear_audio_input_shield/Docs/I2S-shield-pinout.pdf)
 - [Schematic](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Shields/Linear_audio_input_shield/Docs/Sound_AUX_shield_schematic.pdf)
+- [Step file](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Shields/Linear_audio_input_shield/Docs/3D/AUX_shield_v1.step)
