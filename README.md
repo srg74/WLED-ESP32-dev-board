@@ -28,8 +28,8 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 
 ### Quick references
 
-- [Pinout](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/pdf/ESP32_dev_board_v3_pinout.pdf)
-- [Jumpers](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/pdf/ESP32_dev_board_v3_jumpers.pdf)
+- [Pinout](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/PDF/ESP32_dev_board_v3_pinout.pdf)
+- [Jumpers](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/PDF/ESP32_dev_board_v3_jumpers.pdf)
 - [Platformio env](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/Platformio_env.md)
 - [Parts placement](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/Parts_placement_v1.0.png)
 - [Schematic](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/Schematic.pdf)
