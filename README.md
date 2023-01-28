@@ -6,7 +6,7 @@
 
 ## Imagination is your limit ;)
 
-![Board](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/ESP32_WLED_dev_board_v1r2_3D.jpg)
+![Board](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/ESP32-dev_v3_2.jpg)
 
 I appreciate your support for my project! [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=VU7L89Z2RR7S4)
 
