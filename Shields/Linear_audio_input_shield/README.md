@@ -4,7 +4,7 @@
 
 ## Variants
 
-- I2S audio input shield with rotary encoder
+- I2S audio input shield
 - I2S audio input shield with rotary encoder and I2C OLED display
 
 ## Resources
