@@ -9,4 +9,4 @@ Automotive shield is designed for use with ESP32 WLED dev board to extend functi
 
 ## Quick links
 
-- [Schematic](https://github.com/srg74/WLED-ESP32-dev-board/tree/main/Shields/Automotive_shield/Schematic.pdf)
+- [Schematic](https://github.com/srg74/WLED-ESP32-dev-board/tree/main/Shields/Automotive_shield/Docs/Schematic.pdf)
