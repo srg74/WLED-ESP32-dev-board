@@ -12,7 +12,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 
 Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/tindie-logo@2x.png)](https://www.tindie.com/products/27056/)
 
-## EPS32 WLED dev board have following features
+## *EPS32 WLED dev board* have following features
 
 - ESP32 Wi-Fi modules with PCB or external antenna
 - USB connector (for programming only)
@@ -20,11 +20,10 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 - Level shifters for 2 digital outputs
 - Solder jumpers for output configuration
 - Power selector (e.g 5VDC or 12/24VDC)
-- 10A Relay for power saving feature
+- 10A Relay for LED power output
 - On board connector for PWM fan
-- Temperature sensor (Dallas or SHT31) on board
+- SHT31 sensor on board (temperature, humidity)
 - Headers for expansion shields
-- [I2S audio shield  with optional display and rotary encoder](https://github.com/srg74/WLED-ESP32-dev-board/tree/main/Shields/Linear_audio_input_shield)
 - [Compatible with Ethernet Network shield](https://www.tindie.com/products/30385/)
 
 ### Quick references
@@ -32,5 +31,4 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 - [Pinout](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/PDF/ESP32_dev_board_v3_pinout.pdf)
 - [Jumpers](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/PDF/ESP32_dev_board_v3_jumpers.pdf)
 - [Platformio env](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/Platformio_env.md)
-- [Parts placement](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/Parts_placement_v1.0.png)
 - [Schematic](https://github.com/srg74/WLED-ESP32-dev-board/blob/main/Resources/images/Schematic.pdf)
