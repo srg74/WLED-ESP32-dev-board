@@ -1,4 +1,4 @@
-# ESP32 WLED dev board designed for WLED and many more projects
+# ESP32 WLED dev board is designed for WLED project and can be used for many other projects
 
 [![Release](https://img.shields.io/github/v/release/srg74/WLED-ESP32-dev-board?style=flat-square)](https://img.shields.io/github/v/release/srg74/WLED-ESP32-dev-board)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
