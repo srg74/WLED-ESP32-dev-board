@@ -25,7 +25,7 @@ Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP3
 - Temperature sensor (Dallas or SHT31) on board
 - Headers for expansion shields
 - [I2S audio shield  with optional display and rotary encoder](https://github.com/srg74/WLED-ESP32-dev-board/tree/main/Shields/Linear_audio_input_shield)
-- [Compatible with TwilightLord-ESP32 Ethernet Shield](https://www.tindie.com/products/twilightlord/twilightlord-esp32-ethernet-shield/)
+- [Compatible with Ethernet Network shield](https://www.tindie.com/products/30385/)
 
 ### Quick references
 
